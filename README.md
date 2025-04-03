@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I'm Deepanshu, always learning and exploring new technologies!💡
-\n
-⚡Check out my cool projects⚡
+
+#⚡Check out my cool projects⚡
         👇👇👇👇
 <!--
 **deepanshuSoni22/deepanshuSoni22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
