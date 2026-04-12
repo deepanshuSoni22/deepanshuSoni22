@@ -1,3 +1,3 @@
-## Hi, there 👋
+## Hi, there! 👋
 
-It's Deepanshu, just learning and exploring software dev stuffs! 😵‍💫🥲😵👍.
+I'm Deepanshu! 💻👨‍💻👾⚙️.
